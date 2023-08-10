@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Android Development Using Kotlin**
 
-- 👨‍💻 All of my projects are available at [https://kamrankhaniet.github.io/MuhammadKamranPortfolio/](https://kamrankhaniet.github.io/MuhammadKamranPortfolio/)
+- 👨‍💻 All of my projects are available at [[https://kamrankhaniet.github.io/MuhammadKamranPortfolio/](https://kamrankhaniet.github.io/MuhammadKamranPortfolio/)](https://muhammadkamran-mk.github.io/MuhammadKamranPortfolio/)
 
 - 💬 Ask me about **Android App Developer**
 
